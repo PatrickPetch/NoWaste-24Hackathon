@@ -1,4 +1,5 @@
-#NoWaste
+# NoWaste
+## FoodEx: Connecting Eaters and Feeders
 
 The issue that our team has chosen to address is Food Waste under the themes Climate Action and Sustainable Cities. We have identified food waste in the form of leftovers as our problem statement.
 
